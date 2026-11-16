@@ -1,3 +1,128 @@
+License
+=======
+
+This repository contains two kinds of material. Each kind keeps its own license.
+
+1. PhET-derived simulation files
+--------------------------------
+
+These HTML files are built copies of Faraday's Electromagnetic Lab from
+PhET Interactive Simulations, University of Colorado Boulder:
+
+- faradays-electromagnetic-lab_en_adapted-from-phet.html
+- faradays-electromagnetic-lab.html
+- faradays-electromagnetic-lab_all_adapted-from-phet.html
+
+faradays-electromagnetic-lab.html is a byte-for-byte copy of
+faradays-electromagnetic-lab_en_adapted-from-phet.html.
+
+Each file identifies the work as follows:
+
+- Name: Faraday's Electromagnetic Lab
+- Project: faradays-electromagnetic-lab
+- Version: 1.1.0-dev.0
+- Brand: adapted-from-phet
+- Copyright 2002-2024, Regents of the University of Colorado
+- English build: 2024-10-04 16:13:59 UTC
+- All-locales build: 2024-10-02 21:42:08 UTC
+
+The English file and its identical copy have language switching turned off.
+The all-locales file starts in English, includes PhET's translations, and
+has language switching turned on.
+
+License for these HTML files: CC BY 4.0
+----------------------------------------
+
+The notice PhET placed at the top of each file says:
+
+    This file is licensed under Creative Commons Attribution 4.0
+
+That is the license for copying and redistributing these HTML files. The
+full license is Creative Commons Attribution 4.0 International:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+PhET's historical software agreement says the same thing for Regular HTML
+Simulation Files released before March 29, 2026. These builds are dated
+October 2024.
+
+    https://phet.colorado.edu/en/licensing/html
+
+Required attribution. Keep this sentence readable. PhET allows translation
+of it and no other change:
+
+    Simulation by PhET Interactive Simulations, University of Colorado Boulder, licensed under CC BY 4.0 (https://phet.colorado.edu).
+
+CC BY 4.0 allows use and redistribution, including commercial use, when
+that attribution is kept and any changes are indicated. Hosting these files
+in a public repository is allowed. See NOTICE.
+
+HTML simulations PhET published after March 29, 2026 are under CC BY-NC 4.0.
+That license is not the license of the files in this repository. PhET's
+current licensing page describes the newer terms:
+
+    https://phet.colorado.edu/en/licensing
+    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Source-code license: GNU GPL v3
+-------------------------------
+
+PhET licenses the simulation-specific source under the GNU General Public
+License v3, and licenses PhET common libraries under the MIT License. The
+HTML file header points to the source license as an alternate:
+
+    For alternate source code licensing, see https://github.com/phetsims
+
+The built files embed the source package field "license": "GPL-3.0".
+PhET's HTML5 software agreement describes the split: the minified HTML
+simulation file is CC BY 4.0, the simulation source is GPLv3, and the
+common source is MIT.
+
+    https://phet-dev.colorado.edu/license.html
+    https://www.gnu.org/licenses/gpl-3.0.html
+
+This repository contains the built HTML files, not the simulation source.
+The source repository is:
+
+    https://github.com/phetsims/faradays-electromagnetic-lab
+
+At version 1.1.0-dev.0 that repository's package.json declared
+"license": "GPL-3.0", and its LICENSE file was the GPLv3 text. The public
+source was removed on 2026-10-09 in commit 63727846a29a0457920efc0433d804890dcf79d1.
+The GPLv3 text and package.json remain in git history at commit
+8390b87d5585af09f917d18fb7d045c80f0b91db.
+
+Third-party components inside each HTML file keep the licenses printed in
+that file's header. Section 2 below does not replace those notices.
+
+Trademarks
+----------
+
+The PhET name and PhET logo are trademarks of the Regents of the University
+of Colorado. PhET grants permission to use them for attribution. Promotional,
+marketing, or advertising use requires a separate license from the University
+of Colorado. Contact phethelp@colorado.edu.
+
+adapted-from-phet is PhET's brand for a build that is not an official
+simulation published by PhET. The phet and phet-io brands are reserved for
+PhET Interactive Simulations.
+
+    https://github.com/phetsims/brand
+
+2. Original repository text
+---------------------------
+
+The MIT License below applies only to original text in this repository that
+is not derived from PhET:
+
+- README.md
+- NOTICE
+- .gitignore
+- the original wording of this LICENSE file
+
+The MIT License does not cover the HTML simulation files, PhET's source, or
+third-party components inside the builds.
+
 MIT License
 
 Copyright (c) 2024 Seth Gibson

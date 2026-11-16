@@ -1,0 +1,52 @@
+Attribution
+===========
+
+Simulation by PhET Interactive Simulations, University of Colorado Boulder, licensed under CC BY 4.0 (https://phet.colorado.edu).
+
+This attribution applies to the built simulation files in this repository:
+
+- faradays-electromagnetic-lab_en_adapted-from-phet.html
+- faradays-electromagnetic-lab.html
+  Identical copy of the English file above.
+- faradays-electromagnetic-lab_all_adapted-from-phet.html
+
+Work
+----
+
+Faraday's Electromagnetic Lab
+PhET Interactive Simulations, University of Colorado Boulder
+Copyright 2002-2024, Regents of the University of Colorado
+https://phet.colorado.edu
+https://phet.colorado.edu/en/simulations/faradays-electromagnetic-lab
+
+Version 1.1.0-dev.0, brand adapted-from-phet.
+
+- English build: 2024-10-04 16:13:59 UTC
+  (faradays-electromagnetic-lab_en_adapted-from-phet.html and
+  faradays-electromagnetic-lab.html)
+- All-locales build: 2024-10-02 21:42:08 UTC
+  (faradays-electromagnetic-lab_all_adapted-from-phet.html)
+
+These are development builds. They are not the numbered releases published
+on the PhET website. No separate modification of the simulation logic is
+documented in this repository. The English file is also stored under a
+second filename.
+
+License
+-------
+
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+The simulation-specific source is available under the GNU General Public
+License v3 from PhET. See LICENSE for that split, for PhET common-library
+and third-party notices, and for the MIT License that covers only the
+original text in this repository.
+
+Trademarks
+----------
+
+The PhET name and PhET logo are trademarks of the Regents of the University
+of Colorado. They are used here for attribution. Promotional, marketing, or
+advertising use requires a separate license from the University of Colorado.
+Contact phethelp@colorado.edu.
